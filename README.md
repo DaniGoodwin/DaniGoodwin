@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DaniGoodwin
+- 👀 I’m interested in creating mods for Minecraft: Bedrock Edition
+- 🌱 I’m currently learning Java and C++
+- 💞️ I’m looking to collaborate on Create mod port for Horizon Modding Kernel
+- 📫 How to reach me -> Discord: DaniGoodwin#4915
